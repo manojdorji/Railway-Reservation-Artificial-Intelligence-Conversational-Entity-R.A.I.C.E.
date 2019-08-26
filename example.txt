@@ -1,0 +1,6 @@
+Hi there i am R.A.I.C.E...!
+What is your name?
+	Manojkumar
+hi..Manojkumar...what can i do for you?
+1.Book a ticket 2.FAQs 3.Recents
+	1.Book a ticket 
