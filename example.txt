@@ -1,6 +1,10 @@
-Hi there i am R.A.I.C.E...!
-What is your name?
-	Manojkumar
-hi..Manojkumar...what can i do for you?
-1.Book a ticket 2.FAQs 3.Recents
-	1.Book a ticket 
+1.Book a ticket 2.View Booked 3.Enquiry
+Hi...i'm R.A.I.C.E. guiding you throught the booking!
+please select date:
+
+Hi, manoj! I am your Tickect Reservation Companion.
+Please, Enter your Source...
+	pondicherry
+Please, Enter your Destination...
+	cuddalore
+	
